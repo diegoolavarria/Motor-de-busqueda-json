@@ -1,5 +1,5 @@
 # Motor de búsqueda .json
-Programa escrito en Javascript que permite un parámetro ingresado por teclado, y busca los 10 objetos más similares.
+Programa escrito en Javascript que permite un parámetro ingresado por teclado, y busca los 10 objetos más similares. La similitud se basa en la cercanía entre los valores numéricos de cada atributo (diferencia).
 
 # Por qué se hizo en Javascript
 Por poseer mayor experiencia en Javascript, en contraste con asegurar una entrega dentro del tiempo especificado.
